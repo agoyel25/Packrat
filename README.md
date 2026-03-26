@@ -1,5 +1,7 @@
 # packrat
 
+![packrat banner](assets/banner.png)
+
 A Go CLI tool for creating and restoring compressed backups of WSL home directories — with an interactive TUI wizard, smart category detection, and package manager snapshots.
 
 ## Features
