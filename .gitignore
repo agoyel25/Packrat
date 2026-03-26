@@ -1,0 +1,14 @@
+# Built binary
+packrat
+
+# Backup archives produced by the tool
+*.tar.zst
+*.packages.json
+
+# macOS
+.DS_Store
+
+# Editor
+.idea/
+.vscode/
+*.swp
